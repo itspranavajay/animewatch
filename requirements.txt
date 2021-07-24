@@ -1,2 +1,5 @@
 telethon
-gogoanime-api
+requests_html
+requests
+bs4
+random
